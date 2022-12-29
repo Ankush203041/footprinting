@@ -1,0 +1,2 @@
+# footprinting
+information gathering
