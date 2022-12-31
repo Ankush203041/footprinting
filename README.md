@@ -20,3 +20,21 @@ download httrack software
 Go to websites: ultratools.com , email tracker pro, or any whois ip lookup tools
 
 //DNS footprinting//
+Dns lookup information is helpful to identify a host within a targated network 
+                record type               |                        Description
+                   A                      |          The host's ip address
+                   MX                     |          Domain's mail server
+                   NS                     |          Host name server
+                   CNAME                  |          Canonical naming allows aliases to a host
+                   SDA                    |          Indicate authority of the domain
+                   SRV                    |          Service record
+                   PTR                    |          IP-Host mapping
+                   RP                     |          Responsible person
+                   HINFO                  |          Host information 
+                   TXT                    |          Unstructured record
+
+*whois helps to gaininformation regarding domain name
+some important websites: centeralops.net, lookip.net, pathanalyzer.com, whois.com
+
+# we can gather information using maltego software...........
+
